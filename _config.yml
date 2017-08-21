@@ -4,7 +4,7 @@ email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     /portfolio
-url:         "davidchen581.github.io/test"
+url:         "davidchen581.github.io/portfolio"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
