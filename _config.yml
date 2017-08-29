@@ -3,7 +3,7 @@ title:       david chen
 email:       581@gmail.com
 author:      David Chen
 description: "Port"
-baseurl:     /davidchen581.github.io
+baseurl:     
 url:         davidchen581.github.io/
 date_format: "%b %-d, %Y"
 header_pages:
