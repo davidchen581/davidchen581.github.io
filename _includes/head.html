@@ -131,4 +131,21 @@
       });
     });
     </script>
+    $('a[href*=\\#]').on('click',function(e) {
+
+    var target = this.hash;
+    var $target = $(target);
+    console.log(targetname);
+    var targetname = target.slice(1, target.length);
+
+    if(document.getElementById(targetname) != null) {
+         e.preventDefault();
+    }
+    $('html, body').stop().animate({
+        'scrollTop': $target.offset().top-120 //or the height of your fixed navigation 
+
+    }, 900, 'swing', function () {
+        window.location.hash = target;
+  });
+});
 </head>
