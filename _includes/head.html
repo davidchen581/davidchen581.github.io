@@ -127,6 +127,16 @@
             // Add hash (#) to URL when done scrolling (default click behavior)
             window.location.hash = hash;
           });
+                                  $(document).on('click', '.class_name a', function(e) {
+                          e.preventDefault();
+                          var target = $(this).attr('href'), $target = $(target); {
+                              $('html, body').stop().animate({
+                                  'scrollTop' : $target.offset().top - 50
+                              }, 900, 'swing', function() {
+                                  window.location.hash = target;
+                              });
+                          }
+                            });
         } // End if
       });
     });
