@@ -1,5 +1,5 @@
 a {
-  text-decoration: #aac4a2;
+  color: #aac4a2;
   background-image: linear-gradient(to top,
     rgba(0,0,0,0) 13%,
     rgba($link-color,.8) 13%,
@@ -14,7 +14,7 @@ a:hover,
 a:focus,
 a:active {
   border: 0;
-  text-decoration: #7ecc5d;
+  color: #7ecc5d;
   background-image: linear-gradient(to top,
     rgba(0,0,0,0) 13%,
     rgba($link-hover-color,.8) 13%,
