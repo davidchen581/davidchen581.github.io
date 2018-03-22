@@ -11,9 +11,7 @@ a {
 
 a:hover,
 a:focus,
-a:active
-a:link
-a:visited {
+a:active {
   border: 0;
   color: $link-hover-color;
   text-decoration: none;
@@ -27,7 +25,11 @@ a:visited {
 }
 
 
-
+a:link
+a:visited {
+  color: #a7b79c;
+  text-decoration: none;
+}
 
 
 
