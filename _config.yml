@@ -8,8 +8,8 @@ url:         "https://davidchen581.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - portfolio.md
+  - contact.html
  - about.md
- - contact.html
 
 # Google services
 google_verification:
