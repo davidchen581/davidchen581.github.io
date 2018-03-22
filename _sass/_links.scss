@@ -24,7 +24,10 @@ a:active {
   text-shadow: white 1px 0px 0px, white -1px 0px 0px;
 }
 
-
+a:link
+a:visited {
+  color: #a7b79c;
+}
 
 
 // Correct issues with buttons
