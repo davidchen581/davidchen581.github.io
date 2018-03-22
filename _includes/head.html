@@ -109,18 +109,7 @@
     <script>
     $(document).ready(function(){
       // Add smooth scrolling to all links
-      //$("a").on('click', function(event) {
-        $(document).on('click', '.class_name a', function(e) {
-                          e.preventDefault();
-                          var target = $(this).attr('href'), $target = $(target); {
-                              $('html, body').stop().animate({
-                                  'scrollTop' : $target.offset().top - 50
-                              }, 900, 'swing', function() {
-                                  window.location.hash = target;
-                              });
-                          }
-                            });
-        } // End if
+      $("a").on('click', function(event) {
         // Make sure this.hash has a value before overriding default behavior
         if (this.hash !== "") {
           // Prevent default anchor click behavior
