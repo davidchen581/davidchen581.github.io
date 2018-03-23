@@ -6,12 +6,18 @@ summary:    Design proccess of __
 categories: jekyll pixyll
 ---
 
-Jekyll is a tool for transforming your plain text into static websites and 
-blogs. It is simple, static, and blog-aware. Jekyll uses the 
-[Liquid](http://docs.shopify.com/themes/liquid-basics) templating
-language and has builtin [Markdown](http://daringfireball.net/projects/markdown/)
-and [Textile](http://en.wikipedia.org/wiki/Textile_(markup_language)) support.
+Problems:
 
-It also ties in nicely to [Github Pages](https://pages.github.com/).
+*x
+*y
+*z
 
-Learn more about Jekyll on their [website](http://jekyllrb.com/).
+<blockquote>
+  <p>
+    quote
+  </p>
+  <footer><cite title="person name">person name</cite></footer>
+</blockquote>
+The book [Don't Make Me Think](https://www.sensible.com/dmmt.html).
+
+
