@@ -6,7 +6,6 @@ summary:    placeholder 3
 categories: jekyll pixyll
 ---
 Problems:
-
 *x
 *y
 *z
