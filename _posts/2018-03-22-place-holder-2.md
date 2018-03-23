@@ -6,11 +6,11 @@ summary:    Design proccess of __
 categories: jekyll pixyll
 ---
 
-Problems:
 
-*x
-*y
-*z
+Problems:
+* x
+* y
+* z
 
 <blockquote>
   <p>
