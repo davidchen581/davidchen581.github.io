@@ -6,9 +6,10 @@ summary:    placeholder 3
 categories: jekyll pixyll
 ---
 Problems:
-*x
-*y
-*z
+* x
+* y
+* z
+
 
 <blockquote>
   <p>
@@ -16,5 +17,4 @@ Problems:
   </p>
   <footer><cite title="person name">person name</cite></footer>
 </blockquote>
-
 
