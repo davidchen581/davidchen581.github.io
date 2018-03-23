@@ -9,9 +9,9 @@ categories: jekyll pixyll
 
 <blockquote>
   <p>
-    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+    quote
   </p>
-  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
+  <footer><cite title="person name">person name</cite></footer>
 </blockquote>
 
 
