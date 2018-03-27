@@ -9,7 +9,7 @@ layout: default
 
 <div class="post-header mb2">
   
-  <h1><center><b>{{ page.title }}</b></center></h1>
+  <h1><center><b>{{ page.title }}</b></h1>
   <span class="post-meta">{{ page.date | date: site.date_format }}</span><br>
   {% if page.update_date %}
     <span class="post-meta">{{ site.text.post.updated }}: {{ page.update_date | date: site.date_format }}</span><br>
@@ -19,7 +19,7 @@ layout: default
     {{ page.minutes }} {{ site.text.post.minute_read }}
   {% else %}
     {{ minutes }} {{ site.text.post.minute_read }}
-  {% endif %}
+  {% endif %}</center>
   </span>
 </div>
 
