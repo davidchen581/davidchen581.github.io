@@ -14,17 +14,17 @@ layout: default
   {% if page.update_date %}
     <span class="post-meta">{{ site.text.post.updated }}: {{ page.update_date | date: site.date_format }}</span><br>
   {% endif %}</center>
-  <span class="post-meta small">
-  {% if page.minutes %}
-    {{ page.minutes }} {{ site.text.post.minute_read }}
-  {% else %}
-    {{ minutes }} {{ site.text.post.minute_read }}
-  {% endif %}
+  //<span class="post-meta small">
+  //{% if page.minutes %}
+  //  {{ page.minutes }} {{ site.text.post.minute_read }}
+ // {% else %}
+   // {{ minutes }} {{ site.text.post.minute_read }}
+  //{% endif %}
   </span>
 </div>
 
 <article class="post-content">
-  <h3 style="padding-left:50px;"{{ content }}</h3>
+  <h3 style="padding-left:100px;"{{ content }}</h3>
 </article>
 
 {% if site.show_sharing_icons %}
