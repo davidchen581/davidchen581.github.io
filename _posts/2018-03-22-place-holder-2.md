@@ -13,9 +13,9 @@ Problems:
 * z
 
 <blockquote>
-  <p><h5>
+  <p><h6>
     quote
-  </h5></p>
+  </h6></p>
   <footer><cite title="person name">person name</cite></footer>
 </blockquote>
 The book [Don't Make Me Think](https://www.sensible.com/dmmt.html).
