@@ -14,7 +14,7 @@ Problems:
 
 <blockquote>
   <p><h2>
-    quote
+    Faced with the prospect of following a convention, there’s a great temptation for designers to try reinventing the wheel instead, largely because they feel (not incorrectly) that they’ve been hired to do something new and different, not the same old thing. Not to mention the fact that praise from peers, awards, and high-profile job offers are rarely based on criteria like “best use of conventions.” Occasionally, time spent reinventing the wheel results in a revolutionary new rolling device. But usually it just amounts to time spent reinventing the wheel
   </h2></p>
   <footer><cite title="person name">person name</cite></footer>
 </blockquote>
