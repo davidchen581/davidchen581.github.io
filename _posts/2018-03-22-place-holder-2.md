@@ -15,8 +15,8 @@ Problems:
 <blockquote>
   <p><h5>
     quote
-  </p>
-  <footer><cite title="person name">person name</cite></footer></h5>
+  </h5></p>
+  <footer><cite title="person name">person name</cite></footer>
 </blockquote>
 The book [Don't Make Me Think](https://www.sensible.com/dmmt.html).
 
