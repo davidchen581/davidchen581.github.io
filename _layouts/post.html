@@ -11,9 +11,9 @@ layout: default
   
   <h1><center><b>{{ page.title }}</b></center></h1>
   <span class="post-meta">{{ page.date | date: site.date_format }}</span><br>
-  {% if page.update_date %}
+  <center>{% if page.update_date %}
     <span class="post-meta">{{ site.text.post.updated }}: {{ page.update_date | date: site.date_format }}</span><br>
-  {% endif %}
+    {% endif %}</center>
   <!-- <span class="post-meta small">
   {% if page.minutes %}
     {{ page.minutes }} {{ site.text.post.minute_read }}
